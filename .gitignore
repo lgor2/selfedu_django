@@ -133,3 +133,4 @@ dmypy.json
 .idea
 
 coolsite/women/migrations/
+coolsite/coolsite_cache
